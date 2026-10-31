@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SE-LAB_06_CodeAndBranchCoverage
-=======
 # Lab 6: Code and Branch Coverage Analysis
 
 ## Overview

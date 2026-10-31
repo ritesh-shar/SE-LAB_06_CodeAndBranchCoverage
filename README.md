@@ -142,4 +142,3 @@ The terminal screenshots demonstrating the achieved coverage are included in thi
 This lab demonstrates the importance of code coverage and branch coverage in software testing.
 
 While code coverage ensures that executable statements are exercised, branch coverage verifies that different decision outcomes are tested.
->>>>>>> origin/master

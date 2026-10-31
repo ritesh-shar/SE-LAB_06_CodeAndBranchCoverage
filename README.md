@@ -126,16 +126,16 @@ The terminal screenshots demonstrating the achieved coverage are included in thi
 ## Code Coverage:
 
 ### Before Code Coverage :
-![BeforeCodeCoverage](Screenshots\BeforeCodeCoverage.jpeg)
+![BeforeCodeCoverage](Screenshots/BeforeCodeCoverage.jpeg)
 
 ### After Code Coverage :
-![AfterCodeCoverage](Screenshots\AfterCodeCoverage.jpeg)
+![AfterCodeCoverage](Screenshots/AfterCodeCoverage.jpeg)
 
 ### Before Branch Coverage :
-![BeforeBranchCoverage](Screenshots\BeforeBranchCoverage.jpeg)
+![BeforeBranchCoverage](Screenshots/BeforeBranchCoverage.jpeg)
 
 ### After Branch Coverage :
-![AfterBranchCoverage](Screenshots\AfterBranchCoverage.jpeg)
+![AfterBranchCoverage](Screenshots/AfterBranchCoverage.jpeg)
 
 ## Conclusion
 
